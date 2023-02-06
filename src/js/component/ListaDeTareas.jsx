@@ -35,6 +35,7 @@ function ListaDeTareas() {
           )
         }
       </div>
+      <div>{tareas.length}Tareas</div>
     </>
   )
 }
